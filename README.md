@@ -28,5 +28,5 @@ This program displays a formatted monthly calendar and lets users **add custom e
 javac Main.java
 
 # Run the program
-java English_Calander
+java Main
 
